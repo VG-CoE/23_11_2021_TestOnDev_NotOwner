@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cr0e1_23112021app2_fc885</Name>
+  <AppVersion>2021-11-23T11:49:17Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.21112.22.0</CreatedByClientVersion>
+  <MinClientVersion>3.21112.22.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"25994841-34c2-4c43-b026-07c3aff58dc5","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.21112.22","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>23_11_2021_App2</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"577f9c53-31e7-4496-b273-858f12feb104":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1534/1.0.1534.2605/logicflows/icon.png","dataSources":["23_11_2021_Flow2"],"dependencies":["e772654c-05f1-4765-9566-db4e70d7fd1c"],"dependents":[],"parameterHints":{"workflowName":{"value":"9fad00e6-87ca-45b3-8ee2-92e60484d623"},"workflowEntityId":{"value":"535879e9-524c-ec11-8c62-000d3ab52b8a"},"e772654c-05f1-4765-9566-db4e70d7fd1c":{"value":"shared_office365"}},"parameterHintsV2":{"workflowName":{"value":"9fad00e6-87ca-45b3-8ee2-92e60484d623"},"workflowEntityId":{"value":"535879e9-524c-ec11-8c62-000d3ab52b8a"},"shared_office365":{"value":"e772654c-05f1-4765-9566-db4e70d7fd1c"}},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]},"e772654c-05f1-4765-9566-db4e70d7fd1c":{"id":"/providers/microsoft.powerapps/apis/shared_office365","displayName":"Office 365 Outlook","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1535/1.0.1535.2607/office365/icon.png","dataSources":[],"dependencies":[],"dependents":["577f9c53-31e7-4496-b273-858f12feb104"],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/cr0e1_23112021app2_fc885_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cr0e1_23112021app2_fc885_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
