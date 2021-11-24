@@ -1,0 +1,10 @@
+<environmentvariabledefinition schemaname="cr0e1_23_11_2021_YN">
+  <displayname default="23_11_2021_YN">
+    <label description="23_11_2021_YN" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000002</type>
+</environmentvariabledefinition>
